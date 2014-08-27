@@ -11,6 +11,8 @@ this is a simple game i want to build.
  <li>Design Prototype</li>
  <li>Design architecture</li>
  <li>coding...</li>
+ <li>testing...</li>
+ <li>publish and have fun!</li>
 </ul>
 
 <hr/>

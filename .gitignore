@@ -218,3 +218,9 @@ pip-log.txt
 ## WebStorm
 #############
 *.idea
+
+#############
+## design file
+#############
+design/
+experiment/
